@@ -1,0 +1,45 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+.title
+{
+    text-align: center;
+    background-color: #798;
+    padding:20px;
+    margin:10px;
+    text-transform:uppercase;
+}
+
+.table
+{
+    margin:20px;
+    text-align: center;
+}
+
+.addbtn{
+    background-color: lightblue;
+    margin: 6px;
+    padding: 6px;
+    border:none;
+    border-radius:4px;
+}
+
+.getbtn{
+    padding:8px;
+    margin:30px;
+    background-color:lightgreen;
+    border-radius:4px;
+    border:none;
+}
+
+div
+{
+    margin:10px;
+}
+
+input{
+    margin: 10px;
+}
