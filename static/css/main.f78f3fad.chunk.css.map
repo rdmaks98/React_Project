@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/css/index.css","webpack://src/css/p5style.css"],"names":[],"mappings":"AAAA,KACI,wBACJ,CCFA,EACI,QAAU,CACV,SAAW,CACX,qBACJ","file":"main.f78f3fad.chunk.css","sourcesContent":["body{\r\n    background-color:#b39ddb;\r\n}","*{\r\n    margin:0px;\r\n    padding:0px;\r\n    box-sizing: border-box;\r\n}"]}

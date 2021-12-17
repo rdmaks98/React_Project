@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rdmaks98/React_Project/tree/main/project1_template/static/css/main.f78f3fad.chunk.css",
+    "main.js": "/rdmaks98/React_Project/tree/main/project1_template/static/js/main.47d0db3a.chunk.js",
+    "main.js.map": "/rdmaks98/React_Project/tree/main/project1_template/static/js/main.47d0db3a.chunk.js.map",
+    "runtime-main.js": "/rdmaks98/React_Project/tree/main/project1_template/static/js/runtime-main.71ca04db.js",
+    "runtime-main.js.map": "/rdmaks98/React_Project/tree/main/project1_template/static/js/runtime-main.71ca04db.js.map",
+    "static/css/2.f2d0564d.chunk.css": "/rdmaks98/React_Project/tree/main/project1_template/static/css/2.f2d0564d.chunk.css",
+    "static/js/2.6e15538d.chunk.js": "/rdmaks98/React_Project/tree/main/project1_template/static/js/2.6e15538d.chunk.js",
+    "static/js/2.6e15538d.chunk.js.map": "/rdmaks98/React_Project/tree/main/project1_template/static/js/2.6e15538d.chunk.js.map",
+    "index.html": "/rdmaks98/React_Project/tree/main/project1_template/index.html",
+    "static/css/2.f2d0564d.chunk.css.map": "/rdmaks98/React_Project/tree/main/project1_template/static/css/2.f2d0564d.chunk.css.map",
+    "static/css/main.f78f3fad.chunk.css.map": "/rdmaks98/React_Project/tree/main/project1_template/static/css/main.f78f3fad.chunk.css.map",
+    "static/js/2.6e15538d.chunk.js.LICENSE.txt": "/rdmaks98/React_Project/tree/main/project1_template/static/js/2.6e15538d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71ca04db.js",
+    "static/css/2.f2d0564d.chunk.css",
+    "static/js/2.6e15538d.chunk.js",
+    "static/css/main.f78f3fad.chunk.css",
+    "static/js/main.47d0db3a.chunk.js"
+  ]
+}
