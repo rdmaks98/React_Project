@@ -1,0 +1,12 @@
+.NotesSection_container {
+  columns: 3 180px;
+  column-gap: 1em;
+  padding: 1em;
+  display:flex;
+}
+
+.NotesSection_container_empty {
+  display: flex;
+  align-items: center;
+  justify-content:center;
+}
